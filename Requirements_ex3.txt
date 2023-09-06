@@ -1,0 +1,6 @@
+1. Generate and plot a sine wave with a frequency of 50Hz and show its first 5 periods
+2. Generate and plot in the same figure as 1, a noise signal using the function "rand"
+3. Generate and plot in the same figure as 1 and 2, the resulting signal after adding the 2 above mentioned signals
+4. in the same plot, show the samples of the signal affected by noise
+5. sample the signal obtained at 3 in a new figure with a sample frequency chosen accordingly to be possible to rebuild it and show the samples obtained in the same figure with the signal plotted in the above mentioned signal
+(hint: you can use the downsample matlab function)

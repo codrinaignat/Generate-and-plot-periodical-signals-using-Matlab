@@ -1,0 +1,7 @@
+1. Generate a sine wave with f = 2kHz and plot 5 periods of it
+2. Sample the above sine wave with f1 = 10kHz and show its samples in the same plot as the one above
+3. Sample the above sine wave with f2 = 3kHz and show its samples in the same plot as the one above
+4. What is the difference between 2 and 3 results?
+5. Do the same using the following sampling frequencies: f1 = 20kHz and f2 = 1.5kHz
+6. Follow the steps 1-4 for a sawtooth wave
+7. Follow the steps 1-4 for a square wave
