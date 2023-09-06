@@ -1,0 +1,11 @@
+1. Consider a sine wave with a frequency of 50Hz, find out the period Tsemnal of this signal
+2. Find out the sampling frequency Fs, depending on the Nyquist-Shannon theorem
+3. Find out the sampling period Tesant
+4. Set the time base. More info here: https://www.mathworks.com/help/signal/ug/create-uniform-and-nonuniform-time-vectors.html
+5. Generate a sine wave
+6. Show the first 2 periods of this signal
+7. Choose the sampling frequency so that the plotted sine wave to be correct
+8. Show the first 5 periods of this signal
+9. Generate the same signal with a freq of 100 Hz. What happens if you keep the same sampling freq ?
+10. Generate a sawtooth wave with f = 100Hz and plot 7 periods of it
+11. Generate a square wave with f = 5 Hz and show 10 periods of it
